@@ -13,9 +13,4 @@ $items.map((item) => {
     }
 
     item.addEventListener('click', addActive)
-})
-
-
-$items.map((item) => {
-
-})
+});
