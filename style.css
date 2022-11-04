@@ -110,7 +110,7 @@ body {
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
-    background: url(/src/assets/images/illustration-woman-online-desktop.svg) bottom 7.1rem left -8.1rem no-repeat, url(/src/assets/images/bg-pattern-desktop.svg) 
+    background: url(/images/illustration-woman-online-desktop.svg) bottom 7.1rem left -8.1rem no-repeat, url(/images/bg-pattern-desktop.svg) 
     bottom -15rem left -57rem no-repeat;
     background-color: white;
     -webkit-box-shadow: 0px 25px 23px -8px rgba(0,0,0,0.36);
@@ -120,7 +120,7 @@ body {
     }
     .main__container::before {
     content: "";
-    background: url(/src/assets/images/illustration-box-desktop.svg) no-repeat;
+    background: url(/images/illustration-box-desktop.svg) no-repeat;
     width: 140px;
     height: 190px;
     position: absolute;
